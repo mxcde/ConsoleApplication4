@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\zhuqiang\documents\visual studio 2015\projects\consoleapplication4\consoleapplication4\main.cpp(65): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  ConsoleApplication4.vcxproj -> C:\Users\ZhuQiang\documents\visual studio 2015\Projects\ConsoleApplication4\x64\Debug\ConsoleApplication4.exe
